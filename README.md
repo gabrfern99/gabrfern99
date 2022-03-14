@@ -6,8 +6,7 @@
      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrfern99&theme=monokai"/>
     <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrfern99&theme=monokai"/>
     <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrfern99&theme=monokai"/>
-</div>
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -16,4 +15,4 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+    </div></div>
